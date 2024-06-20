@@ -2,7 +2,7 @@
 During the stydying I have learnt to work with bash. Here are the task I made and some more.
 
 ### Task "University"
-In this task I had to create directory "universiry" and add file "students.txt". Then to add date in this file using editor in bash. After that I did several requests to find nesessary information. 
+In this task I had to create directory "universiry" and add file "students.txt". Then to add the date in this file using editor in bash and create some more files in directory "university". After that I did several requests to find nesessary information. 
 Below is the table with the requests I sent and responses I got.
 
 | Number  | Request | Response |
