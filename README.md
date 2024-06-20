@@ -23,6 +23,6 @@ Below is the table with the requests I sent and responses I got.
 | 12  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ grep -iv maria students.txt  | Aleksandra Ivanova Smirnova <br>Mihail Egorovich Petrov <br>MIHAIL Alekseevich Sokolov  |
 | 13  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ grep -c Smirnova students.txt  | 1  |
 | 14  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ grep -icv Smirnova students.txt  | 3  |
-| 15  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ find . -name "*.txt"  | ./students.txt <br>./faculties.txt  |
+| 15  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ find . -name "٭.txt"  | ./students.txt <br>./faculties.txt  |
 | 16  | kate@LAPTOP-VSNQSSAB:~/Kate/university$  find . -name "students.*"  | ./students.png <br>./students.txt  |
 | 17  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ find . -name faculties.txt  | faculties.txt  |
