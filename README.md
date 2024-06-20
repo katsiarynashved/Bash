@@ -1,9 +1,11 @@
 # Bash
-During the stydying I have learnt to work with bash. Here are the task I made and some more.
+My stydy included working with bash. Here are the task I made and some more.
 
 ### Task "University"
-In this task I had to create directory "universiry" and add file "students.txt". Then to add the date in this file using editor in bash and create some more files in directory "university". After that I did several requests to find nesessary information. 
+In this task directory "universiry" has to be created and file "students.txt" should be added. Then I needed to add the data in that file using editor in bash and create some more files in directory "university". After that several requests have to be done to find nesessary information. 
 Below is the table with the requests I sent and responses I got.
+<br>
+<br>
 
 | Number  | Request | Response |
 | --- | ------------- | ------------------------------------ | 
