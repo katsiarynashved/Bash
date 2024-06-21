@@ -8,7 +8,7 @@ Below is the table with the requests I sent and responses I got.
 <br>
 
 | Number  | Request | Response |
-| --- | ------------- | ------------------------------------ | 
+| ------- | ------- | -------- | 
 | 1  | kate@LAPTOP-VSNQSSAB:~/Kate$ ls  | Danya  Lucky  dir2  dir3  new_file.txt  text_file.txt  |
 | 2  | kate@LAPTOP-VSNQSSAB:~/Kate$ mkdir university  |   |
 | 3  | kate@LAPTOP-VSNQSSAB:~/Kate$ ls  | Danya  Lucky  dir2  dir3  new_file.txt  text_file.txt  university  |
@@ -26,3 +26,15 @@ Below is the table with the requests I sent and responses I got.
 | 15  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ find . -name "٭.txt"  | ./students.txt <br>./faculties.txt  |
 | 16  | kate@LAPTOP-VSNQSSAB:~/Kate/university$  find . -name "students.*"  | ./students.png <br>./students.txt  |
 | 17  | kate@LAPTOP-VSNQSSAB:~/Kate/university$ find . -name faculties.txt  | faculties.txt  |
+
+<br>
+
+### Task "Library"
+<br>
+
+| Task  | My answer |
+| ----- | --------- | 
+| 1. Create file library.txt <br>2. Add next books: <br>- Nineteen Eighty-Four by George Orwell <br>- Alice in Wonderland by Lewis Carroll  | echo Nineteen Eighty-Four by George Orwell > library.txt <br>echo Alice in Wonderland by Lewis Carroll >> library.txt  | 
+| 3. Add new book: <br>- Escape from Freedom by Erich Fromm | echo Escape from Freedom by Erich Fromm >> library.txt | 
+| 4. Replace all the information in this file to: <br>- All books are currently unavailable | echo All books are currently unavailable > library.txt |
+| 5. Print the contents of this file to the terminal | cat library.txt |
