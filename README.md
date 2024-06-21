@@ -1,7 +1,9 @@
 # Bash
 My stydy included working with bash. Here are tasks I made and some more.
 
-### Task "University"
+📌 [Bash tips](https://github.com/katsiarynashved/Bash/blob/main/Bash%20tips.png)
+
+## Task "University"
 In this task directory "universiry" has to be created and file "students.txt" should be added. Then I needed to add the data in that file using editor in bash and create some more files in directory "university". After that several requests have to be done to find nesessary information. 
 Below is the table with the requests I sent and responses I got.
 <br>
@@ -29,7 +31,7 @@ Below is the table with the requests I sent and responses I got.
 
 <br>
 
-### Task "Library"
+## Task "Library"
 <br>
 
 | Task  | My answer |
